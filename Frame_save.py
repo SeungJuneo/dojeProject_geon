@@ -16,6 +16,10 @@ def save_detected_frames_only(video_dir: str, output_dir: str, model_path: str):
     os.makedirs(raw_dir, exist_ok=True)
 
     model = YOLO(model_path)
+    saved_count = 0
+    fps = cap.get(cv2.CAP_PROP_FPS)
+    frame_interval = max(1, int(fps / 5))
+    frame_count = 0
     # valid_exts = (".mp4", ".avi", ".mov", ".mkv")
 
     # 'am'과 'pm' 디렉토리 내 파일 처리
@@ -41,16 +45,11 @@ def save_detected_frames_only(video_dir: str, output_dir: str, model_path: str):
 
         cap = cv2.VideoCapture(video_dir)
         
-        saved_count = 0
-        fps = cap.get(cv2.CAP_PROP_FPS)
-        frame_interval = max(1, int(fps / 5))
-        frame_count = 0
         #영상이 열렸는지 확인
         while cap.isOpened():
             ret, frame = cap.read()
             if not ret:
                 break
-
 
             if frame_count % frame_interval == 0:
                 results = model(frame)[0]
