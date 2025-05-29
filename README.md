@@ -78,21 +78,12 @@
 
 ## 사용 기술
 
-### 🧑‍💻 프로그래밍 언어
+| 🧑‍💻 프로그래밍 언어 | 🔃 버전 관리       |
+|----------------------|--------------------|
+| **Python**            | **Git & GitHub**   |
+| ![Python](https://github.com/user-attachments/assets/dfcdd084-caea-4bc1-a441-311b629cd26a) | ![Git & GitHub](https://github.com/user-attachments/assets/b3ea67f1-8fa3-4692-87d8-3df1b42eaa7f) |
 
-- **Python**  
-  ![Python](https://github.com/user-attachments/assets/dfcdd084-caea-4bc1-a441-311b629cd26a)
-
----
-
-### 🔃 버전 관리
-
-- **Git & GitHub**  
-  ![Git & GitHub](https://github.com/user-attachments/assets/b3ea67f1-8fa3-4692-87d8-3df1b42eaa7f)  
-
-  [GitHub 저장소 바로가기](https://github.com/SeungJuneo/dojeProject_geon)
-
----
+[GitHub 저장소 바로가기](https://github.com/SeungJuneo/dojeProject_geon)
 
 ### ⚙️ 프레임워크 및 라이브러리
 
