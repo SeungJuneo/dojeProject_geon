@@ -72,20 +72,24 @@
 
 ---
 
+
+
+
+
 ## 사용 기술
 
 ### 🧑‍💻 Programming Languages
 
 - **Python**
     
-    ![download.png](attachment:2ebdd12b-c136-49b0-b07a-726c238e3d5e:download.png)
+![Image](https://github.com/user-attachments/assets/dfcdd084-caea-4bc1-a441-311b629cd26a)
     
 
 ### 🔃 Version Control
 
 - **Git & GitHub**
 
-![image.png](attachment:d96da72c-9c7c-4615-b793-2d3478b02b16:image.png)
+![Image](https://github.com/user-attachments/assets/b3ea67f1-8fa3-4692-87d8-3df1b42eaa7f)
 
 https://github.com/SeungJuneo/dojeProject_geon
 
@@ -109,7 +113,7 @@ https://github.com/SeungJuneo/dojeProject_geon
 
 - **notion**
     
-    ![download.png](attachment:36845ec3-098b-4791-83f3-9848e01517e2:download.png)
+   ![Image](https://github.com/user-attachments/assets/61639476-695d-4063-88ea-dc94918db5ea)
     
 
 [https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?source=copy_link](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
