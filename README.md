@@ -86,8 +86,8 @@
 ### 🧑‍💻 Programming Languages
 
 - **Python**
-    
-  ![Image](https://github.com/user-attachments/assets/51fb6663-6f3c-47f9-9cc9-9d5aab60af27)
+
+    ![Image](https://github.com/user-attachments/assets/d747f9ad-5f47-4736-b7a3-9e2f77d3f02f)
     
 
 ### 🔃 Version Control
