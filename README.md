@@ -1,4 +1,4 @@
-#프로젝트 소개 
+# 프로젝트 소개 
 
 *@*[dojeProject_geon](https://github.com/SeungJuneo/dojeProject_geon)  
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 프로젝트 한 줄 소개
+### 한 줄 소개
 
 <aside>
 💬
