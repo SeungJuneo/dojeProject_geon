@@ -96,7 +96,7 @@ https://github.com/SeungJuneo/dojeProject_geon
 - **YOLO (You Only Look Once)**
     
     
-    ![download.jpg](attachment:d8b3a097-4071-4683-9221-ce12ac084fa5:download.jpg)
+    ![Image](https://github.com/user-attachments/assets/52dd62d6-fa2d-4311-aa8f-77b9eb15bd30)
     
 
 - **Chat gpt api**
