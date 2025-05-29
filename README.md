@@ -87,14 +87,14 @@
 
 - **Python**
     
-    ![download.png](attachment:2ebdd12b-c136-49b0-b07a-726c238e3d5e:download.png)
+    ![Image](https://github.com/user-attachments/assets/51fb6663-6f3c-47f9-9cc9-9d5aab60af27)
     
 
 ### 🔃 Version Control
 
 - **Git & GitHub**
 
-![image.png](attachment:d96da72c-9c7c-4615-b793-2d3478b02b16:image.png)
+![Image](https://github.com/user-attachments/assets/1699ff2b-db94-4e35-8f43-fa7598bd5272)
 
 ---
 
@@ -103,12 +103,14 @@
 - **YOLO (You Only Look Once)**
     
     
-    ![download.jpg](attachment:d8b3a097-4071-4683-9221-ce12ac084fa5:download.jpg)
+   ![Image](https://github.com/user-attachments/assets/2b8538eb-e4d9-4013-a186-5922c79327d2)
     
 
 - **OpenCV**
     
-    ![1_AL5N5YJxiLRQsHDJSSpzwA.png](attachment:1f72d809-499c-4598-877a-7d48406db48f:1_AL5N5YJxiLRQsHDJSSpzwA.png)
+    ![Image](https://github.com/user-attachments/assets/e91cddae-cd87-4674-92de-26ef962a253c)
     
 
 **프로젝트 관리 도구**
+
+    ![Image](https://github.com/user-attachments/assets/8cf52fb6-c43d-4798-8ef2-31fdedf6b06a)
