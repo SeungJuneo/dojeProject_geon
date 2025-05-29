@@ -101,7 +101,7 @@ https://github.com/SeungJuneo/dojeProject_geon
 
 - **Chat gpt api**
 
-![ChatGPT_logo.png](attachment:18775470-2889-40fd-bfc0-ebdf91bcd744:ChatGPT_logo.png)
+![Image](https://github.com/user-attachments/assets/c293d098-8a5c-4555-88c3-5ffd13bac66d)
 
 ---
 
