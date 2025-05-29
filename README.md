@@ -78,44 +78,38 @@
 
 ## 사용 기술
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 프로그래밍 언어
 
-- **Python**
-    
-![Image](https://github.com/user-attachments/assets/dfcdd084-caea-4bc1-a441-311b629cd26a)
-    
-
-### 🔃 Version Control
-
-- **Git & GitHub**
-
-![Image](https://github.com/user-attachments/assets/b3ea67f1-8fa3-4692-87d8-3df1b42eaa7f)
-
-https://github.com/SeungJuneo/dojeProject_geon
+- **Python**  
+  ![Python](https://github.com/user-attachments/assets/dfcdd084-caea-4bc1-a441-311b629cd26a)
 
 ---
 
-### ⚙️ Frameworks & Libraries
+### 🔃 버전 관리
 
-- **YOLO (You Only Look Once)**
-    
-    
-    ![Image](https://github.com/user-attachments/assets/52dd62d6-fa2d-4311-aa8f-77b9eb15bd30)
-    
+- **Git & GitHub**  
+  ![Git & GitHub](https://github.com/user-attachments/assets/b3ea67f1-8fa3-4692-87d8-3df1b42eaa7f)  
 
-- **Chat gpt api**
-
-![Image](https://github.com/user-attachments/assets/c293d098-8a5c-4555-88c3-5ffd13bac66d)
+  [GitHub 저장소 바로가기](https://github.com/SeungJuneo/dojeProject_geon)
 
 ---
 
-**프로젝트 관리 도구**
+### ⚙️ 프레임워크 및 라이브러리
 
-- **notion**
-    
-   ![Image](https://github.com/user-attachments/assets/61639476-695d-4063-88ea-dc94918db5ea)
-    
+- **YOLO (You Only Look Once)**  
+  ![YOLO](https://github.com/user-attachments/assets/52dd62d6-fa2d-4311-aa8f-77b9eb15bd30)
 
-[https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?source=copy_link](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
+- **ChatGPT API**  
+  ![Chat GPT API](https://github.com/user-attachments/assets/c293d098-8a5c-4555-88c3-5ffd13bac66d)
 
 ---
+
+### 📋 프로젝트 관리 도구
+
+- **Notion**  
+  ![Notion](https://github.com/user-attachments/assets/61639476-695d-4063-88ea-dc94918db5ea)  
+
+  [Notion 프로젝트 페이지](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
+
+---
+
