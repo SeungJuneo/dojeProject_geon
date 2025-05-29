@@ -87,7 +87,7 @@
 
 - **Python**
     
-    ![Image](https://github.com/user-attachments/assets/51fb6663-6f3c-47f9-9cc9-9d5aab60af27)
+  ![Image](https://github.com/user-attachments/assets/51fb6663-6f3c-47f9-9cc9-9d5aab60af27)
     
 
 ### 🔃 Version Control
