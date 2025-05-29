@@ -94,7 +94,7 @@
 
 - **Git & GitHub**
 
-![Image](https://github.com/user-attachments/assets/1699ff2b-db94-4e35-8f43-fa7598bd5272)
+![Image](https://github.com/user-attachments/assets/8993a101-f9b0-43ed-b00e-8a7d999cd0e4)
 
 ---
 
@@ -107,10 +107,11 @@
     
 
 - **OpenCV**
-    
-    ![Image](https://github.com/user-attachments/assets/e91cddae-cd87-4674-92de-26ef962a253c)
+
+    ![Image](https://github.com/user-attachments/assets/e4fd3d52-3d36-4db2-90e1-aa06be4a368d)
+
     
 
 **프로젝트 관리 도구**
 
-    ![Image](https://github.com/user-attachments/assets/8cf52fb6-c43d-4798-8ef2-31fdedf6b06a)
+![Image](https://github.com/user-attachments/assets/232948fe-2ff8-40d0-94e2-4dca91bf6027)
