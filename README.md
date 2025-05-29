@@ -1,16 +1,14 @@
-# 프로젝트 소개 
-
 *@*[dojeProject_geon](https://github.com/SeungJuneo/dojeProject_geon)  
 
 2025.05.27 ~ 2025.05.30
 
 ---
 
-## 📷감정을 알려주는 카메라
+# 📷감정을 알려주는 카메라
 
 ---
 
-### 한 줄 소개
+### 프로젝트 한 줄 소개
 
 <aside>
 💬
@@ -19,8 +17,6 @@
 
 </aside>
 
----
-
 ### 인원 및 역할
 
 | 이름 | 역할 | 주요 업무 |
@@ -28,30 +24,25 @@
 | 최승빈 | 모델 개발자 | 얼굴 표정 감정 데이터 수집·전처리, 모델 설계 및 구현 |
 | 김승준 | 공감 메시지 및 통합 개발자 | 공감 메시지 추천 알고리즘 개발, 시스템 통합 |
 
-| 날짜 | 주요 내용 |
-| --- | --- |
-| 5월 27일 화 | 프로젝트 기획 및 자료 탐색 |
-| 5월 28일 수 | 얼굴 표정 인식 및 감정 분석 모델 간단 구현 및 테스트 |
-| 5월 29일 목 | 감정 기반 공감 메시지 추천 기능 개발 및 통합 |
-| 5월 30일 금 | 시스템 통합, 최종 점검, 결과물 발표 및 문서화 |
+---
 
 ### 일정 계획
 
 - **화요일 (5월 27일)**
     
-    프로젝트 기획을 진행하고, 간단한 얼굴 표정 데이터 수집 및 라벨링을 포함한 데이터 전처리를 수행합니다.
+    프로젝트 기획을 진행하고, 간단한 얼굴 표정 데이터 수집 및 라벨링을 포함한 데이터 전처리를 수행
     
 - **수요일 (5월 28일)**
     
-    얼굴 표정 인식과 감정 분석 모델을 간단히 구현하고 테스트하는 단계입니다.
+    얼굴 표정 인식과 감정 분석 모델을 간단히 구현하고 테스트
     
 - **목요일 (5월 29일)**
     
-    감정 기반 공감 메시지 추천 기능을 개발하고 시스템에 통합합니다.
+    감정 기반 공감 메시지 추천 기능을 개발하고 시스템에 통합
     
 - **금요일 (5월 30일)**
     
-    전체 시스템을 통합하고 최종 점검을 실시한 뒤, 결과물 발표와 문서화를 완료합니다.
+    전체 시스템을 통합하고 최종 점검을 실시한 뒤, 결과물 발표와 문서화를 완료
     
 
 **프로젝트 목적 및 구현 동기**
@@ -81,20 +72,22 @@
 
 ---
 
-### 사용 기술
+## 사용 기술
 
 ### 🧑‍💻 Programming Languages
 
 - **Python**
-
-    ![Image](https://github.com/user-attachments/assets/d747f9ad-5f47-4736-b7a3-9e2f77d3f02f)
+    
+    ![download.png](attachment:2ebdd12b-c136-49b0-b07a-726c238e3d5e:download.png)
     
 
 ### 🔃 Version Control
 
 - **Git & GitHub**
 
-    ![Image](https://github.com/user-attachments/assets/f156f851-1697-4692-ae62-5dd2cea7e969)
+![image.png](attachment:d96da72c-9c7c-4615-b793-2d3478b02b16:image.png)
+
+https://github.com/SeungJuneo/dojeProject_geon
 
 ---
 
@@ -103,15 +96,22 @@
 - **YOLO (You Only Look Once)**
     
     
-   ![Image](https://github.com/user-attachments/assets/2b8538eb-e4d9-4013-a186-5922c79327d2)
+    ![download.jpg](attachment:d8b3a097-4071-4683-9221-ce12ac084fa5:download.jpg)
     
 
-- **OpenCV**
+- **Chat gpt api**
 
-  ![Image](https://github.com/user-attachments/assets/e4fd3d52-3d36-4db2-90e1-aa06be4a368d)
+![ChatGPT_logo.png](attachment:18775470-2889-40fd-bfc0-ebdf91bcd744:ChatGPT_logo.png)
 
-    
+---
 
 **프로젝트 관리 도구**
 
-    ![Image](https://github.com/user-attachments/assets/232948fe-2ff8-40d0-94e2-4dca91bf6027)
+- **notion**
+    
+    ![download.png](attachment:36845ec3-098b-4791-83f3-9848e01517e2:download.png)
+    
+
+[https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?source=copy_link](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
+
+---
