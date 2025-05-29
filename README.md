@@ -85,22 +85,22 @@
 
 [GitHub 저장소 바로가기](https://github.com/SeungJuneo/dojeProject_geon)
 
-### ⚙️ 프레임워크 및 라이브러리
+## 사용 기술
 
-- **YOLO (You Only Look Once)**  
-  ![YOLO](https://github.com/user-attachments/assets/52dd62d6-fa2d-4311-aa8f-77b9eb15bd30)
-
-- **ChatGPT API**  
-  ![Chat GPT API](https://github.com/user-attachments/assets/c293d098-8a5c-4555-88c3-5ffd13bac66d)
+| ⚙️ 프레임워크 및 라이브러리 | ⚙️ 프레임워크 및 라이브러리 |
+|-----------------------------|-----------------------------|
+| **YOLO (You Only Look Once)** | **ChatGPT API**             |
+| ![YOLO](https://github.com/user-attachments/assets/52dd62d6-fa2d-4311-aa8f-77b9eb15bd30) | ![Chat GPT API](https://github.com/user-attachments/assets/c293d098-8a5c-4555-88c3-5ffd13bac66d) |
 
 ---
+
+<p align="center">
 
 ### 📋 프로젝트 관리 도구
 
-- **Notion**  
-  ![Notion](https://github.com/user-attachments/assets/61639476-695d-4063-88ea-dc94918db5ea)  
+**Notion**  
+<img src="https://github.com/user-attachments/assets/61639476-695d-4063-88ea-dc94918db5ea" alt="Notion" width="150"/>
 
-  [Notion 프로젝트 페이지](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
+[Notion 프로젝트 페이지](https://www.notion.so/201571b40ad9801cb6d3ce1a8efced9b?pvs=21)
 
----
-
+</p>
