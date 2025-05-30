@@ -7,6 +7,8 @@ from google import genai
 from google.genai import types
 import time
 import itertools
+from dotenv import load_dotenv
+load_dotenv()
 
 st_api_key = os.getenv('AiArr')
 if st_api_key is None:
