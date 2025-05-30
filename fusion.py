@@ -31,7 +31,8 @@ cap=cv2.VideoCapture("http://111.111.111.27:8080/video")
 frame_width=int(cap.get(3))
 frame_height = int(cap.get(4))
 
-out=cv2.VideoWriter('output.avi', cv2.VideoWriter_fourcc('M', 'J', 'P', 'G'), 10, (frame_width, frame_height))
+# 녹화 기능
+# out=cv2.VideoWriter('output.avi', cv2.VideoWriter_fourcc('M', 'J', 'P', 'G'), 10, (frame_width, frame_height))
 
 
 model=YOLO("../best.pt")
@@ -98,4 +99,4 @@ while True:
     cv2.imshow("Image", resized_img)
     if cv2.waitKey(1) & 0xFF==ord('1'):
         break
-out.release()
+# out.release()
