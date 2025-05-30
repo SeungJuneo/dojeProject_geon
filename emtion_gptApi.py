@@ -4,10 +4,11 @@ from google.genai import types
 import time
 import itertools
 
-api_key = os.getenv('AiArr')
-if api_key is None:
+st_api_key = os.getenv('AiArr')
+if st_api_key is None:
     raise ValueError("환경 변수 MY_API_KEY가 설정되어 있지 않습니다.")
-print(f"API 키: {api_key}")
+print(f"API 키: {st_api_key}")
+api_key = st_api_key.split(',')
 cycle_iter = itertools.cycle(api_key)
 
 client = genai.Client(api_key=next(cycle_iter))
