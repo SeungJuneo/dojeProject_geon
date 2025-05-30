@@ -32,10 +32,7 @@ chat = client.chats.create(
 def send_emotion_message(emotion_text):
     response = chat.send_message_stream(emotion_text)
     for chunk in response:
-        if len(chunk.text) == 1:
-            continue
         print(chunk.text, end="")
-    print("\n")
 
 cap=cv2.VideoCapture("http://111.111.111.27:8080/video")
 
